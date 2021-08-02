@@ -12,6 +12,7 @@ Just a set of minor database fixes for personal fun.
 * Added missing height and weight for: H. Silva, F. Basualdo, C. Garcia, F. Castro, O. Alaniz, J.C. Lopez, E. Gonzalez, L. Torres, D.J. Zarate, R. Riggio, D. Gimenez.
 * Missing players: D. Alarcón (Belgrano, media PCF5), J. Garcete (Belgrano).
 * Stars: added Maradona (pcf5a97), Caniggia (pcf5a97), Cantona (pcf5).
+* Fixed media: Delgado (pcf5a97).
 
 ## Requirements
 
